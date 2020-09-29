@@ -1,0 +1,92 @@
+/* Section Title */
+#title{
+    background-color: #333333;
+    color: white;
+}
+/* Navigation Bar */
+.navbar-brand{
+    font-family: 'Monoton';
+}
+.namaweb{
+    font-size: 40px;
+}
+/* .container{
+    padding: 3% 10%;
+} */
+.homepage{
+   text-align: center;
+   padding: 10% 0 15% 0;
+   }
+#judul{
+    font-family: "Lobster";
+    font-size: 9.5rem;
+}
+p{
+    font-family:'Montserrat';
+}
+/* tech-used */
+
+#tech-used{
+    padding: 5%;
+    text-align: center;
+}
+.card{
+    margin: 7%;
+}
+.card-text{
+    font-family: 'Montserrat';
+    font-size: 14px;
+    padding: 2%;
+}
+.satu{
+    text-align: right;
+}
+.dua{
+    text-align: center;
+}
+.tiga{
+    text-align: center;
+}
+.empat{
+    text-align: left;
+}
+.card-img-top{
+    height: 150px;
+}
+#testimony{
+    background-color: #333333;
+    color: white;
+    padding: 5%;
+}
+.testi-img{
+    border-radius: 100%;
+    height: 200px;
+}
+.carousel-item{
+    text-align: center;
+}
+.keterangan-carousel{
+    font: size 4rem;    
+}
+#contact{
+padding: 3%;
+
+}
+.form{
+    width: 500px;
+    height: 500px;
+    background-color:#333333;
+    border: 1px solid white;
+}
+form{
+    padding: 10px;
+    margin: 15px;
+}
+.input{
+    margin-left: 3%px;   
+}
+.info-personal{
+    border: 3px solid #333333;
+    padding: 5%;
+    text-align: center;
+}
